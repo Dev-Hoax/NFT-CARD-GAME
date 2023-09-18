@@ -1,7 +1,7 @@
 # Avax Gods - Online Multiplayer Web3 NFT Card Game
-![Gameplay]
+# Gameplay
 
-( https://github.com/Dev-Hoax/NFT-CARD-GAME/assets/85429816/4e51d565-2982-4727-8eef-bf73357b0c6e )
+https://github.com/Dev-Hoax/NFT-CARD-GAME/assets/85429816/4e51d565-2982-4727-8eef-bf73357b0c6e
 
 ## Instructions on setting up the Web3 part of the project
 0. `cd web3`
